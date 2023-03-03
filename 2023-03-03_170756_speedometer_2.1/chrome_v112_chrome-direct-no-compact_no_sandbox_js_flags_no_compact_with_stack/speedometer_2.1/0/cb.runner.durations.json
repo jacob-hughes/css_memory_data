@@ -1,0 +1,9 @@
+{
+  "browser-setup": 4.355215,
+  "browser-tear_down": 0.396305,
+  "probes-creation": 0.000142,
+  "probes-setup": 0.000125,
+  "probes-start": 0.000256,
+  "run": 117.99838,
+  "runner-cooldown": 2.002053
+}

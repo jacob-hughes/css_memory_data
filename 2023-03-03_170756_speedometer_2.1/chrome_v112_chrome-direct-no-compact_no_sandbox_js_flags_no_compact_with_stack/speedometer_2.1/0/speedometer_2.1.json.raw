@@ -1,0 +1,4242 @@
+[
+  {
+    "geomean": 403.26512665040065,
+    "mean": 541.3500000834465,
+    "score": 49.595163772587846,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.90000057220459,
+              "Sync": 58.69999980926514
+            },
+            "total": 92.60000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.90000057220459,
+              "Sync": 10.5
+            },
+            "total": 25.40000057220459
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 19.800000190734863
+            },
+            "total": 22.5
+          }
+        },
+        "total": 140.50000095367432
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 44,
+              "Sync": 211.29999923706055
+            },
+            "total": 255.29999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.100000381469727,
+              "Sync": 62.19999980926514
+            },
+            "total": 91.30000019073486
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.5,
+              "Sync": 218.5
+            },
+            "total": 232
+          }
+        },
+        "total": 578.5999994277954
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 43,
+              "Sync": 80.5
+            },
+            "total": 123.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32.10000038146973,
+              "Sync": 47.5
+            },
+            "total": 79.60000038146973
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.40000057220459,
+              "Sync": 30.700000762939453
+            },
+            "total": 34.10000133514404
+          }
+        },
+        "total": 237.20000171661377
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 50.30000019073486,
+              "Sync": 123.60000038146973
+            },
+            "total": 173.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32,
+              "Sync": 106.60000038146973
+            },
+            "total": 138.60000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.699999809265137,
+              "Sync": 150.4000005722046
+            },
+            "total": 158.10000038146973
+          }
+        },
+        "total": 470.60000133514404
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42,
+              "Sync": 541.2000007629395
+            },
+            "total": 583.2000007629395
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.699999809265137,
+              "Sync": 337.5999994277954
+            },
+            "total": 365.29999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 365.8999996185303
+            },
+            "total": 368.5999994277954
+          }
+        },
+        "total": 1317.0999994277954
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.5,
+              "Sync": 231.29999923706055
+            },
+            "total": 268.79999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.800000190734863,
+              "Sync": 115.29999923706055
+            },
+            "total": 144.0999994277954
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.59999942779541,
+              "Sync": 79
+            },
+            "total": 81.59999942779541
+          }
+        },
+        "total": 494.49999809265137
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.19999980926514,
+              "Sync": 101.80000019073486
+            },
+            "total": 138
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.399999618530273,
+              "Sync": 108.19999980926514
+            },
+            "total": 136.5999994277954
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 86.60000038146973
+            },
+            "total": 89.40000057220459
+          }
+        },
+        "total": 364
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37,
+              "Sync": 54.69999980926514
+            },
+            "total": 91.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6,
+              "Sync": 102.79999923706055
+            },
+            "total": 108.79999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 238.5
+            },
+            "total": 241.19999980926514
+          }
+        },
+        "total": 441.6999988555908
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 45.80000019073486,
+              "Sync": 7
+            },
+            "total": 52.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 30.800000190734863,
+              "Sync": 4.09999942779541
+            },
+            "total": 34.89999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 6.90000057220459,
+              "Sync": 2.40000057220459
+            },
+            "total": 9.30000114440918
+          }
+        },
+        "total": 97.00000095367432
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.19999980926514,
+              "Sync": 172.0999994277954
+            },
+            "total": 208.29999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.600000381469727,
+              "Sync": 163.60000038146973
+            },
+            "total": 191.20000076293945
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.09999942779541,
+              "Sync": 109.30000019073486
+            },
+            "total": 112.39999961853027
+          }
+        },
+        "total": 511.8999996185303
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 38,
+              "Sync": 139.30000019073486
+            },
+            "total": 177.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.199999809265137,
+              "Sync": 77
+            },
+            "total": 105.19999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 55.20000076293945
+            },
+            "total": 57.90000057220459
+          }
+        },
+        "total": 340.4000005722046
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 38.40000057220459,
+              "Sync": 327.9000005722046
+            },
+            "total": 366.3000011444092
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.09999942779541,
+              "Sync": 71.69999980926514
+            },
+            "total": 98.79999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 45.39999961853027
+            },
+            "total": 48.39999961853027
+          }
+        },
+        "total": 513.5
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.40000057220459,
+              "Sync": 336.8999996185303
+            },
+            "total": 370.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.200000762939453,
+              "Sync": 71.39999961853027
+            },
+            "total": 98.60000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 44.30000019073486
+            },
+            "total": 47.20000076293945
+          }
+        },
+        "total": 516.100001335144
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 34.79999923706055,
+              "Sync": 245.80000019073486
+            },
+            "total": 280.5999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.399999618530273,
+              "Sync": 62.10000038146973
+            },
+            "total": 91.5
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3000001907348633,
+              "Sync": 39.69999980926514
+            },
+            "total": 43
+          }
+        },
+        "total": 415.0999994277954
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 64.29999923706055,
+              "Sync": 10
+            },
+            "total": 74.29999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 39,
+              "Sync": 4
+            },
+            "total": 43
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.800000190734863,
+              "Sync": 5.300000190734863
+            },
+            "total": 15.100000381469727
+          }
+        },
+        "total": 132.39999961853027
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.80000019073486,
+              "Sync": 513.6999998092651
+            },
+            "total": 555.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.89999961853027,
+              "Sync": 980.5
+            },
+            "total": 1018.3999996185303
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 514.4000005722046
+            },
+            "total": 517.1000003814697
+          }
+        },
+        "total": 2091
+      }
+    },
+    "total": 8661.600001335144
+  },
+  {
+    "geomean": 396.69766307004863,
+    "mean": 541.8374995589256,
+    "score": 50.41622843255422,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 34,
+              "Sync": 49.69999980926514
+            },
+            "total": 83.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.299999237060547,
+              "Sync": 9.40000057220459
+            },
+            "total": 23.699999809265137
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.800000190734863,
+              "Sync": 17.100000381469727
+            },
+            "total": 25.90000057220459
+          }
+        },
+        "total": 133.30000019073486
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.79999923706055,
+              "Sync": 199.30000019073486
+            },
+            "total": 242.0999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.399999618530273,
+              "Sync": 66.19999980926514
+            },
+            "total": 94.59999942779541
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.800000190734863,
+              "Sync": 213.9000005722046
+            },
+            "total": 227.70000076293945
+          }
+        },
+        "total": 564.3999996185303
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.60000038146973,
+              "Sync": 66.89999961853027
+            },
+            "total": 106.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.199999809265137,
+              "Sync": 44.39999961853027
+            },
+            "total": 75.59999942779541
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 4.300000190734863,
+              "Sync": 27.899999618530273
+            },
+            "total": 32.19999980926514
+          }
+        },
+        "total": 214.29999923706055
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 44.60000038146973,
+              "Sync": 111.5
+            },
+            "total": 156.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.399999618530273,
+              "Sync": 104.39999961853027
+            },
+            "total": 135.79999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.09999942779541,
+              "Sync": 128.10000038146973
+            },
+            "total": 136.19999980926514
+          }
+        },
+        "total": 428.0999994277954
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.80000019073486,
+              "Sync": 512.5
+            },
+            "total": 554.3000001907349
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27,
+              "Sync": 329.29999923706055
+            },
+            "total": 356.29999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 354
+            },
+            "total": 356.9000005722046
+          }
+        },
+        "total": 1267.5
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.30000019073486,
+              "Sync": 186.5999994277954
+            },
+            "total": 222.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.90000057220459,
+              "Sync": 112.89999961853027
+            },
+            "total": 140.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 78.19999980926514
+            },
+            "total": 81
+          }
+        },
+        "total": 444.69999980926514
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.69999980926514,
+              "Sync": 94.29999923706055
+            },
+            "total": 129.99999904632568
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.699999809265137,
+              "Sync": 102.5
+            },
+            "total": 130.19999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 85
+            },
+            "total": 87.69999980926514
+          }
+        },
+        "total": 347.89999866485596
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.59999942779541,
+              "Sync": 50.60000038146973
+            },
+            "total": 87.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.199999809265137,
+              "Sync": 106.10000038146973
+            },
+            "total": 112.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6000003814697266,
+              "Sync": 243.19999980926514
+            },
+            "total": 245.80000019073486
+          }
+        },
+        "total": 445.30000019073486
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.10000038146973,
+              "Sync": 6.5
+            },
+            "total": 48.60000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.300000190734863,
+              "Sync": 4.100000381469727
+            },
+            "total": 33.40000057220459
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 5.09999942779541,
+              "Sync": 2
+            },
+            "total": 7.09999942779541
+          }
+        },
+        "total": 89.10000038146973
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.29999923706055,
+              "Sync": 169.10000038146973
+            },
+            "total": 210.39999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.5,
+              "Sync": 165.5
+            },
+            "total": 197
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.800000190734863,
+              "Sync": 109.30000019073486
+            },
+            "total": 117.10000038146973
+          }
+        },
+        "total": 524.5
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.90000057220459,
+              "Sync": 131.79999923706055
+            },
+            "total": 169.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 36.09999942779541,
+              "Sync": 232.19999980926514
+            },
+            "total": 268.29999923706055
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 10.899999618530273,
+              "Sync": 60.60000038146973
+            },
+            "total": 71.5
+          }
+        },
+        "total": 509.4999990463257
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.70000076293945,
+              "Sync": 328.5999994277954
+            },
+            "total": 362.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.59999942779541,
+              "Sync": 72.90000057220459
+            },
+            "total": 102.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 46.30000019073486
+            },
+            "total": 49.19999980926514
+          }
+        },
+        "total": 514
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.59999942779541,
+              "Sync": 338.5999994277954
+            },
+            "total": 372.1999988555908
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.399999618530273,
+              "Sync": 72.19999980926514
+            },
+            "total": 101.59999942779541
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.1999998092651367,
+              "Sync": 45.60000038146973
+            },
+            "total": 48.80000019073486
+          }
+        },
+        "total": 522.5999984741211
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.30000019073486,
+              "Sync": 234.5999994277954
+            },
+            "total": 267.8999996185303
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.40000057220459,
+              "Sync": 63.39999961853027
+            },
+            "total": 92.80000019073486
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.1999998092651367,
+              "Sync": 41.59999942779541
+            },
+            "total": 44.79999923706055
+          }
+        },
+        "total": 405.4999990463257
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 59.40000057220459,
+              "Sync": 8.5
+            },
+            "total": 67.90000057220459
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.59999942779541,
+              "Sync": 3.6999998092651367
+            },
+            "total": 30.299999237060547
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.199999809265137,
+              "Sync": 4.699999809265137
+            },
+            "total": 13.899999618530273
+          }
+        },
+        "total": 112.09999942779541
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.29999923706055,
+              "Sync": 492.5
+            },
+            "total": 533.7999992370605
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 49.59999942779541,
+              "Sync": 1057.3000001907349
+            },
+            "total": 1106.8999996185303
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 7.90000057220459,
+              "Sync": 498
+            },
+            "total": 505.9000005722046
+          }
+        },
+        "total": 2146.5999994277954
+      }
+    },
+    "total": 8669.39999294281
+  },
+  {
+    "geomean": 388.13706608859775,
+    "mean": 535.5437499880791,
+    "score": 51.528188744114225,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.59999942779541,
+              "Sync": 48
+            },
+            "total": 81.59999942779541
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.5,
+              "Sync": 9.59999942779541
+            },
+            "total": 24.09999942779541
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.700000762939453,
+              "Sync": 17
+            },
+            "total": 19.700000762939453
+          }
+        },
+        "total": 125.39999961853027
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.90000057220459,
+              "Sync": 195.89999961853027
+            },
+            "total": 238.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.399999618530273,
+              "Sync": 65.80000019073486
+            },
+            "total": 94.19999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.200000762939453,
+              "Sync": 212.5
+            },
+            "total": 225.70000076293945
+          }
+        },
+        "total": 558.7000007629395
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.69999980926514,
+              "Sync": 67.19999980926514
+            },
+            "total": 106.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31,
+              "Sync": 44.69999980926514
+            },
+            "total": 75.69999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.299999237060547,
+              "Sync": 28.300000190734863
+            },
+            "total": 31.59999942779541
+          }
+        },
+        "total": 214.19999885559082
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 44.80000019073486,
+              "Sync": 107.80000019073486
+            },
+            "total": 152.60000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.600000381469727,
+              "Sync": 101.19999980926514
+            },
+            "total": 132.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.699999809265137,
+              "Sync": 126
+            },
+            "total": 133.69999980926514
+          }
+        },
+        "total": 419.1000003814697
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 45.19999980926514,
+              "Sync": 527.4000005722046
+            },
+            "total": 572.6000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.100000381469727,
+              "Sync": 326.8999996185303
+            },
+            "total": 354
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 349.70000076293945
+            },
+            "total": 352.60000133514404
+          }
+        },
+        "total": 1279.2000017166138
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.5,
+              "Sync": 182
+            },
+            "total": 219.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 34.80000019073486,
+              "Sync": 240.19999980926514
+            },
+            "total": 275
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 11.699999809265137,
+              "Sync": 86.10000038146973
+            },
+            "total": 97.80000019073486
+          }
+        },
+        "total": 592.3000001907349
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.60000038146973,
+              "Sync": 93.5
+            },
+            "total": 129.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.800000190734863,
+              "Sync": 102.10000038146973
+            },
+            "total": 129.9000005722046
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 84.80000019073486
+            },
+            "total": 87.60000038146973
+          }
+        },
+        "total": 346.60000133514404
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.60000038146973,
+              "Sync": 53.59999942779541
+            },
+            "total": 90.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.199999809265137,
+              "Sync": 106.5
+            },
+            "total": 112.69999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.5,
+              "Sync": 241
+            },
+            "total": 243.5
+          }
+        },
+        "total": 446.3999996185303
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.80000019073486,
+              "Sync": 6.300000190734863
+            },
+            "total": 48.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 30,
+              "Sync": 4.199999809265137
+            },
+            "total": 34.19999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 4.90000057220459,
+              "Sync": 2.1999998092651367
+            },
+            "total": 7.100000381469727
+          }
+        },
+        "total": 89.40000057220459
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.60000038146973,
+              "Sync": 161.5
+            },
+            "total": 198.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.399999618530273,
+              "Sync": 154.19999980926514
+            },
+            "total": 181.5999994277954
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 102.10000038146973
+            },
+            "total": 105.10000038146973
+          }
+        },
+        "total": 484.80000019073486
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.10000038146973,
+              "Sync": 128
+            },
+            "total": 165.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 30.100000381469727,
+              "Sync": 76.30000019073486
+            },
+            "total": 106.40000057220459
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 52.39999961853027
+            },
+            "total": 55.09999942779541
+          }
+        },
+        "total": 326.6000003814697
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.60000038146973,
+              "Sync": 322.5999994277954
+            },
+            "total": 356.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.59999942779541,
+              "Sync": 70.19999980926514
+            },
+            "total": 96.79999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.1000003814697266,
+              "Sync": 44.59999942779541
+            },
+            "total": 47.69999980926514
+          }
+        },
+        "total": 500.6999988555908
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33,
+              "Sync": 331.19999980926514
+            },
+            "total": 364.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32.79999923706055,
+              "Sync": 69.80000019073486
+            },
+            "total": 102.59999942779541
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 44
+            },
+            "total": 46.69999980926514
+          }
+        },
+        "total": 513.4999990463257
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33,
+              "Sync": 228.79999923706055
+            },
+            "total": 261.79999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.699999809265137,
+              "Sync": 61.30000019073486
+            },
+            "total": 88
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 39.30000019073486
+            },
+            "total": 42.20000076293945
+          }
+        },
+        "total": 392
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 59.29999923706055,
+              "Sync": 8.5
+            },
+            "total": 67.79999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.199999809265137,
+              "Sync": 3.8000001907348633
+            },
+            "total": 35
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.09999942779541,
+              "Sync": 4.699999809265137
+            },
+            "total": 13.799999237060547
+          }
+        },
+        "total": 116.5999984741211
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.19999980926514,
+              "Sync": 489.19999980926514
+            },
+            "total": 530.3999996185303
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.40000057220459,
+              "Sync": 954.3000001907349
+            },
+            "total": 991.7000007629395
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.699999809265137,
+              "Sync": 627.3999996185303
+            },
+            "total": 641.0999994277954
+          }
+        },
+        "total": 2163.199999809265
+      }
+    },
+    "total": 8568.699999809265
+  },
+  {
+    "geomean": 388.7574937325006,
+    "mean": 528.9312500357628,
+    "score": 51.445953640604955,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.90000057220459,
+              "Sync": 48.5
+            },
+            "total": 82.40000057220459
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.600000381469727,
+              "Sync": 9.600000381469727
+            },
+            "total": 24.200000762939453
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 17.600000381469727
+            },
+            "total": 20.300000190734863
+          }
+        },
+        "total": 126.9000015258789
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 43,
+              "Sync": 197.19999980926514
+            },
+            "total": 240.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.600000381469727,
+              "Sync": 66.39999961853027
+            },
+            "total": 95
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.200000762939453,
+              "Sync": 211.69999980926514
+            },
+            "total": 224.9000005722046
+          }
+        },
+        "total": 560.1000003814697
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.89999961853027,
+              "Sync": 67.5
+            },
+            "total": 107.39999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.199999809265137,
+              "Sync": 44.59999942779541
+            },
+            "total": 75.79999923706055
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.40000057220459,
+              "Sync": 28.199999809265137
+            },
+            "total": 31.600000381469727
+          }
+        },
+        "total": 214.79999923706055
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 46.30000019073486,
+              "Sync": 104.89999961853027
+            },
+            "total": 151.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32.39999961853027,
+              "Sync": 123.69999980926514
+            },
+            "total": 156.0999994277954
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.09999942779541,
+              "Sync": 134.69999980926514
+            },
+            "total": 142.79999923706055
+          }
+        },
+        "total": 450.0999984741211
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.80000019073486,
+              "Sync": 510.79999923706055
+            },
+            "total": 552.5999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.699999809265137,
+              "Sync": 325.9000005722046
+            },
+            "total": 352.6000003814697
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 349.80000019073486
+            },
+            "total": 352.69999980926514
+          }
+        },
+        "total": 1257.8999996185303
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.30000019073486,
+              "Sync": 192.4000005722046
+            },
+            "total": 228.70000076293945
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.200000762939453,
+              "Sync": 126.79999923706055
+            },
+            "total": 155
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.700000762939453,
+              "Sync": 82.89999961853027
+            },
+            "total": 85.60000038146973
+          }
+        },
+        "total": 469.3000011444092
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.90000057220459,
+              "Sync": 95
+            },
+            "total": 130.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.800000190734863,
+              "Sync": 103.29999923706055
+            },
+            "total": 131.0999994277954
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 85.79999923706055
+            },
+            "total": 88.59999942779541
+          }
+        },
+        "total": 350.5999994277954
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.80000019073486,
+              "Sync": 46.09999942779541
+            },
+            "total": 82.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.200000762939453,
+              "Sync": 99.19999980926514
+            },
+            "total": 105.40000057220459
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6000003814697266,
+              "Sync": 230.69999980926514
+            },
+            "total": 233.30000019073486
+          }
+        },
+        "total": 421.6000003814697
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.09999942779541,
+              "Sync": 5.90000057220459
+            },
+            "total": 48
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.200000762939453,
+              "Sync": 3.6999998092651367
+            },
+            "total": 32.90000057220459
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 5.199999809265137,
+              "Sync": 1.8999996185302734
+            },
+            "total": 7.09999942779541
+          }
+        },
+        "total": 88
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.20000076293945,
+              "Sync": 162.69999980926514
+            },
+            "total": 198.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.299999237060547,
+              "Sync": 155.69999980926514
+            },
+            "total": 182.99999904632568
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 9.300000190734863,
+              "Sync": 241.19999980926514
+            },
+            "total": 250.5
+          }
+        },
+        "total": 632.3999996185303
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 38.5,
+              "Sync": 128.4000005722046
+            },
+            "total": 166.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.899999618530273,
+              "Sync": 77.89999961853027
+            },
+            "total": 105.79999923706055
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 52.10000038146973
+            },
+            "total": 54.80000019073486
+          }
+        },
+        "total": 327.5
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.69999980926514,
+              "Sync": 322.80000019073486
+            },
+            "total": 356.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.700000762939453,
+              "Sync": 70.59999942779541
+            },
+            "total": 97.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 45.09999942779541
+            },
+            "total": 48.09999942779541
+          }
+        },
+        "total": 501.8999996185303
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.5,
+              "Sync": 331
+            },
+            "total": 364.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.100000381469727,
+              "Sync": 70.39999961853027
+            },
+            "total": 99.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 44.10000038146973
+            },
+            "total": 46.90000057220459
+          }
+        },
+        "total": 510.9000005722046
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33,
+              "Sync": 227.5999994277954
+            },
+            "total": 260.5999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27,
+              "Sync": 61.29999923706055
+            },
+            "total": 88.29999923706055
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3000001907348633,
+              "Sync": 39.5
+            },
+            "total": 42.80000019073486
+          }
+        },
+        "total": 391.6999988555908
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 67.90000057220459,
+              "Sync": 8.90000057220459
+            },
+            "total": 76.80000114440918
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.5,
+              "Sync": 3.799999237060547
+            },
+            "total": 30.299999237060547
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.5,
+              "Sync": 5.100000381469727
+            },
+            "total": 14.600000381469727
+          }
+        },
+        "total": 121.70000076293945
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.60000038146973,
+              "Sync": 492.30000019073486
+            },
+            "total": 533.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.40000057220459,
+              "Sync": 958
+            },
+            "total": 995.4000005722046
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 505.5
+            },
+            "total": 508.19999980926514
+          }
+        },
+        "total": 2037.5000009536743
+      }
+    },
+    "total": 8462.900000572205
+  },
+  {
+    "geomean": 413.3066729901497,
+    "mean": 562.7249999642372,
+    "score": 48.39021798343106,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.80000019073486,
+              "Sync": 49
+            },
+            "total": 82.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.40000057220459,
+              "Sync": 9.899999618530273
+            },
+            "total": 24.300000190734863
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.799999237060547,
+              "Sync": 17.600000381469727
+            },
+            "total": 20.399999618530273
+          }
+        },
+        "total": 127.5
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 43.80000019073486,
+              "Sync": 205.5999994277954
+            },
+            "total": 249.39999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.59999942779541,
+              "Sync": 67.30000019073486
+            },
+            "total": 95.89999961853027
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 14.100000381469727,
+              "Sync": 246.60000038146973
+            },
+            "total": 260.70000076293945
+          }
+        },
+        "total": 606
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 40,
+              "Sync": 68.29999923706055
+            },
+            "total": 108.29999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.300000190734863,
+              "Sync": 45.30000019073486
+            },
+            "total": 76.60000038146973
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.5,
+              "Sync": 29.100000381469727
+            },
+            "total": 32.60000038146973
+          }
+        },
+        "total": 217.5
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 47.09999942779541,
+              "Sync": 105.5
+            },
+            "total": 152.5999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 39.40000057220459,
+              "Sync": 246.60000038146973
+            },
+            "total": 286.0000009536743
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 14.09999942779541,
+              "Sync": 134
+            },
+            "total": 148.0999994277954
+          }
+        },
+        "total": 586.6999998092651
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.29999923706055,
+              "Sync": 515
+            },
+            "total": 557.2999992370605
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27,
+              "Sync": 322.80000019073486
+            },
+            "total": 349.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.899999618530273,
+              "Sync": 509.69999980926514
+            },
+            "total": 518.5999994277954
+          }
+        },
+        "total": 1425.6999988555908
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.5,
+              "Sync": 187.60000038146973
+            },
+            "total": 224.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28,
+              "Sync": 112.5
+            },
+            "total": 140.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.1999998092651367,
+              "Sync": 79.30000019073486
+            },
+            "total": 82.5
+          }
+        },
+        "total": 447.1000003814697
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.39999961853027,
+              "Sync": 94.5
+            },
+            "total": 129.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.40000057220459,
+              "Sync": 103.60000038146973
+            },
+            "total": 131.00000095367432
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.299999237060547,
+              "Sync": 88.5
+            },
+            "total": 91.79999923706055
+          }
+        },
+        "total": 352.69999980926514
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.89999961853027,
+              "Sync": 45.90000057220459
+            },
+            "total": 83.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.300000190734863,
+              "Sync": 98
+            },
+            "total": 104.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.700000762939453,
+              "Sync": 229.9000005722046
+            },
+            "total": 232.60000133514404
+          }
+        },
+        "total": 420.70000171661377
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 43,
+              "Sync": 6
+            },
+            "total": 49
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.700000762939453,
+              "Sync": 3.6999998092651367
+            },
+            "total": 33.40000057220459
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.09999942779541,
+              "Sync": 2
+            },
+            "total": 9.09999942779541
+          }
+        },
+        "total": 91.5
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.5,
+              "Sync": 178.5999994277954
+            },
+            "total": 221.0999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.799999237060547,
+              "Sync": 162.20000076293945
+            },
+            "total": 190
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 108.79999923706055
+            },
+            "total": 111.79999923706055
+          }
+        },
+        "total": 522.899998664856
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 46.69999980926514,
+              "Sync": 384.6000003814697
+            },
+            "total": 431.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 33.59999942779541,
+              "Sync": 92.20000076293945
+            },
+            "total": 125.80000019073486
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 8.699999809265137,
+              "Sync": 60.60000038146973
+            },
+            "total": 69.30000019073486
+          }
+        },
+        "total": 626.4000005722046
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 34.09999942779541,
+              "Sync": 325.20000076293945
+            },
+            "total": 359.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.300000190734863,
+              "Sync": 70.80000019073486
+            },
+            "total": 98.10000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 45.19999980926514
+            },
+            "total": 48.10000038146973
+          }
+        },
+        "total": 505.5000009536743
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 34.10000038146973,
+              "Sync": 333.30000019073486
+            },
+            "total": 367.4000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.199999809265137,
+              "Sync": 70.30000019073486
+            },
+            "total": 99.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 44.5
+            },
+            "total": 47.39999961853027
+          }
+        },
+        "total": 514.3000001907349
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.39999961853027,
+              "Sync": 230.19999980926514
+            },
+            "total": 263.5999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.59999942779541,
+              "Sync": 62.20000076293945
+            },
+            "total": 88.80000019073486
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.200000762939453,
+              "Sync": 40.19999980926514
+            },
+            "total": 43.40000057220459
+          }
+        },
+        "total": 395.80000019073486
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 60.10000038146973,
+              "Sync": 8.899999618530273
+            },
+            "total": 69
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 38.60000038146973,
+              "Sync": 3.6999998092651367
+            },
+            "total": 42.30000019073486
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 7.399999618530273,
+              "Sync": 4.899999618530273
+            },
+            "total": 12.299999237060547
+          }
+        },
+        "total": 123.59999942779541
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.79999923706055,
+              "Sync": 491.8999996185303
+            },
+            "total": 533.6999988555908
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.80000019073486,
+              "Sync": 960
+            },
+            "total": 997.8000001907349
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 505.3999996185303
+            },
+            "total": 508.19999980926514
+          }
+        },
+        "total": 2039.6999988555908
+      }
+    },
+    "total": 9003.599999427795
+  },
+  {
+    "geomean": 392.08379422329625,
+    "mean": 540.6499999761581,
+    "score": 51.00950433215245,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.20000076293945,
+              "Sync": 48.40000057220459
+            },
+            "total": 81.60000133514404
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 25.5,
+              "Sync": 9.199999809265137
+            },
+            "total": 34.69999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.59999942779541,
+              "Sync": 16.699999809265137
+            },
+            "total": 19.299999237060547
+          }
+        },
+        "total": 135.60000038146973
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.59999942779541,
+              "Sync": 199.39999961853027
+            },
+            "total": 241.99999904632568
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.40000057220459,
+              "Sync": 66.69999980926514
+            },
+            "total": 95.10000038146973
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13,
+              "Sync": 213.0999994277954
+            },
+            "total": 226.0999994277954
+          }
+        },
+        "total": 563.1999988555908
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.40000057220459,
+              "Sync": 67.90000057220459
+            },
+            "total": 107.30000114440918
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.100000381469727,
+              "Sync": 45.59999942779541
+            },
+            "total": 76.69999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3999996185302734,
+              "Sync": 28.899999618530273
+            },
+            "total": 32.29999923706055
+          }
+        },
+        "total": 216.30000019073486
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 52.39999961853027,
+              "Sync": 254.4000005722046
+            },
+            "total": 306.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37,
+              "Sync": 110.19999980926514
+            },
+            "total": 147.19999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 13.700000762939453,
+              "Sync": 125.89999961853027
+            },
+            "total": 139.60000038146973
+          }
+        },
+        "total": 593.6000003814697
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 50.60000038146973,
+              "Sync": 621.5
+            },
+            "total": 672.1000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32.30000019073486,
+              "Sync": 363
+            },
+            "total": 395.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 12.09999942779541,
+              "Sync": 377.30000019073486
+            },
+            "total": 389.3999996185303
+          }
+        },
+        "total": 1456.8000001907349
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.80000019073486,
+              "Sync": 186
+            },
+            "total": 222.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29,
+              "Sync": 111.80000019073486
+            },
+            "total": 140.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 77
+            },
+            "total": 79.90000057220459
+          }
+        },
+        "total": 443.5000009536743
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.30000019073486,
+              "Sync": 93.5
+            },
+            "total": 128.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.399999618530273,
+              "Sync": 102.30000019073486
+            },
+            "total": 129.69999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 84.69999980926514
+            },
+            "total": 87.59999942779541
+          }
+        },
+        "total": 346.0999994277954
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.89999961853027,
+              "Sync": 45.29999923706055
+            },
+            "total": 82.19999885559082
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.59999942779541,
+              "Sync": 97.90000057220459
+            },
+            "total": 104.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.5,
+              "Sync": 235.5
+            },
+            "total": 238
+          }
+        },
+        "total": 424.6999988555908
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.30000019073486,
+              "Sync": 6.100000381469727
+            },
+            "total": 48.40000057220459
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.5,
+              "Sync": 3.5
+            },
+            "total": 33
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.100000381469727,
+              "Sync": 2
+            },
+            "total": 9.100000381469727
+          }
+        },
+        "total": 90.50000095367432
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36,
+              "Sync": 162.10000038146973
+            },
+            "total": 198.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.100000381469727,
+              "Sync": 156.70000076293945
+            },
+            "total": 183.80000114440918
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.09999942779541,
+              "Sync": 105.90000057220459
+            },
+            "total": 109
+          }
+        },
+        "total": 490.9000015258789
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 38,
+              "Sync": 131.0999994277954
+            },
+            "total": 169.0999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.399999618530273,
+              "Sync": 77.19999980926514
+            },
+            "total": 104.59999942779541
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 54
+            },
+            "total": 56.69999980926514
+          }
+        },
+        "total": 330.39999866485596
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.60000038146973,
+              "Sync": 324.3999996185303
+            },
+            "total": 358
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.5,
+              "Sync": 71.30000019073486
+            },
+            "total": 97.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 45.69999980926514
+            },
+            "total": 48.60000038146973
+          }
+        },
+        "total": 504.4000005722046
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.89999961853027,
+              "Sync": 333.6000003814697
+            },
+            "total": 366.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.199999809265137,
+              "Sync": 71.59999942779541
+            },
+            "total": 99.79999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.700000762939453,
+              "Sync": 44.59999942779541
+            },
+            "total": 47.30000019073486
+          }
+        },
+        "total": 513.5999994277954
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.59999942779541,
+              "Sync": 224.69999980926514
+            },
+            "total": 257.29999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.100000381469727,
+              "Sync": 62.80000019073486
+            },
+            "total": 89.90000057220459
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3000001907348633,
+              "Sync": 40.40000057220459
+            },
+            "total": 43.70000076293945
+          }
+        },
+        "total": 390.9000005722046
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 58.30000019073486,
+              "Sync": 8.5
+            },
+            "total": 66.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26,
+              "Sync": 3.8000001907348633
+            },
+            "total": 29.800000190734863
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.09999942779541,
+              "Sync": 4.800000190734863
+            },
+            "total": 13.899999618530273
+          }
+        },
+        "total": 110.5
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41,
+              "Sync": 491.69999980926514
+            },
+            "total": 532.6999998092651
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 38,
+              "Sync": 960.5999994277954
+            },
+            "total": 998.5999994277954
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 505.3999996185303
+            },
+            "total": 508.0999994277954
+          }
+        },
+        "total": 2039.399998664856
+      }
+    },
+    "total": 8650.39999961853
+  },
+  {
+    "geomean": 389.99667594275394,
+    "mean": 542.7250000238419,
+    "score": 51.282488374172,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 34.30000019073486,
+              "Sync": 48.80000019073486
+            },
+            "total": 83.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 25.59999942779541,
+              "Sync": 9.699999809265137
+            },
+            "total": 35.29999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.5,
+              "Sync": 17.199999809265137
+            },
+            "total": 19.699999809265137
+          }
+        },
+        "total": 138.0999994277954
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.89999961853027,
+              "Sync": 198.19999980926514
+            },
+            "total": 241.0999994277954
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.5,
+              "Sync": 65
+            },
+            "total": 93.5
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.200000762939453,
+              "Sync": 214
+            },
+            "total": 227.20000076293945
+          }
+        },
+        "total": 561.8000001907349
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 40.19999980926514,
+              "Sync": 67.60000038146973
+            },
+            "total": 107.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.09999942779541,
+              "Sync": 45.30000019073486
+            },
+            "total": 76.39999961853027
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.299999237060547,
+              "Sync": 28.800000190734863
+            },
+            "total": 32.09999942779541
+          }
+        },
+        "total": 216.29999923706055
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 44.60000038146973,
+              "Sync": 111.30000019073486
+            },
+            "total": 155.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.600000381469727,
+              "Sync": 102
+            },
+            "total": 133.60000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.59999942779541,
+              "Sync": 131.39999961853027
+            },
+            "total": 138.99999904632568
+          }
+        },
+        "total": 428.5
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 50.19999980926514,
+              "Sync": 685.5
+            },
+            "total": 735.6999998092651
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 33.10000038146973,
+              "Sync": 333.29999923706055
+            },
+            "total": 366.3999996185303
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.199999809265137,
+              "Sync": 357.4000005722046
+            },
+            "total": 365.6000003814697
+          }
+        },
+        "total": 1467.6999998092651
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.80000019073486,
+              "Sync": 188.69999980926514
+            },
+            "total": 225.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.600000381469727,
+              "Sync": 112.19999980926514
+            },
+            "total": 140.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 79.19999980926514
+            },
+            "total": 82.10000038146973
+          }
+        },
+        "total": 448.4000005722046
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.60000038146973,
+              "Sync": 94.39999961853027
+            },
+            "total": 130
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.59999942779541,
+              "Sync": 103.39999961853027
+            },
+            "total": 130.99999904632568
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.700000762939453,
+              "Sync": 85.90000057220459
+            },
+            "total": 88.60000133514404
+          }
+        },
+        "total": 349.6000003814697
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.30000019073486,
+              "Sync": 51.29999923706055
+            },
+            "total": 87.59999942779541
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.199999809265137,
+              "Sync": 107.10000038146973
+            },
+            "total": 113.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.59999942779541,
+              "Sync": 250
+            },
+            "total": 252.5999994277954
+          }
+        },
+        "total": 453.4999990463257
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42,
+              "Sync": 6.300000190734863
+            },
+            "total": 48.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.40000057220459,
+              "Sync": 3.8000001907348633
+            },
+            "total": 33.20000076293945
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 5.09999942779541,
+              "Sync": 2.09999942779541
+            },
+            "total": 7.19999885559082
+          }
+        },
+        "total": 88.69999980926514
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.30000019073486,
+              "Sync": 166.89999961853027
+            },
+            "total": 203.19999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.300000190734863,
+              "Sync": 156.80000019073486
+            },
+            "total": 184.10000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.1999998092651367,
+              "Sync": 106.69999980926514
+            },
+            "total": 109.89999961853027
+          }
+        },
+        "total": 497.19999980926514
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.90000057220459,
+              "Sync": 128.79999923706055
+            },
+            "total": 166.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.800000190734863,
+              "Sync": 91.30000019073486
+            },
+            "total": 119.10000038146973
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.1000003814697266,
+              "Sync": 58.10000038146973
+            },
+            "total": 61.20000076293945
+          }
+        },
+        "total": 347.0000009536743
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.80000019073486,
+              "Sync": 322.69999980926514
+            },
+            "total": 356.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.399999618530273,
+              "Sync": 70
+            },
+            "total": 96.39999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.1000003814697266,
+              "Sync": 44.80000019073486
+            },
+            "total": 47.90000057220459
+          }
+        },
+        "total": 500.80000019073486
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.30000019073486,
+              "Sync": 330
+            },
+            "total": 363.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.300000190734863,
+              "Sync": 69.80000019073486
+            },
+            "total": 98.10000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 43.80000019073486
+            },
+            "total": 46.69999980926514
+          }
+        },
+        "total": 508.1000003814697
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.5,
+              "Sync": 223
+            },
+            "total": 255.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.300000190734863,
+              "Sync": 62.10000038146973
+            },
+            "total": 88.40000057220459
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 39.40000057220459
+            },
+            "total": 42.30000019073486
+          }
+        },
+        "total": 386.20000076293945
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 58.89999961853027,
+              "Sync": 8.699999809265137
+            },
+            "total": 67.59999942779541
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.200000762939453,
+              "Sync": 3.8999996185302734
+            },
+            "total": 35.10000038146973
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.199999809265137,
+              "Sync": 4.800000190734863
+            },
+            "total": 14
+          }
+        },
+        "total": 116.69999980926514
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.60000038146973,
+              "Sync": 489.69999980926514
+            },
+            "total": 531.3000001907349
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 49.5,
+              "Sync": 1073
+            },
+            "total": 1122.5
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 11.199999809265137,
+              "Sync": 510
+            },
+            "total": 521.1999998092651
+          }
+        },
+        "total": 2175
+      }
+    },
+    "total": 8683.60000038147
+  },
+  {
+    "geomean": 399.0213876519674,
+    "mean": 551.1062499880791,
+    "score": 50.122626553151854,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.5,
+              "Sync": 49.30000019073486
+            },
+            "total": 82.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.199999809265137,
+              "Sync": 9.600000381469727
+            },
+            "total": 23.800000190734863
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 17.5
+            },
+            "total": 20.199999809265137
+          }
+        },
+        "total": 126.80000019073486
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 51.10000038146973,
+              "Sync": 381
+            },
+            "total": 432.1000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 34.40000057220459,
+              "Sync": 67.39999961853027
+            },
+            "total": 101.80000019073486
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13.5,
+              "Sync": 229.5
+            },
+            "total": 243
+          }
+        },
+        "total": 776.9000005722046
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.80000019073486,
+              "Sync": 68.80000019073486
+            },
+            "total": 108.60000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31,
+              "Sync": 45.5
+            },
+            "total": 76.5
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3999996185302734,
+              "Sync": 28.59999942779541
+            },
+            "total": 31.999999046325684
+          }
+        },
+        "total": 217.0999994277954
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 46.40000057220459,
+              "Sync": 108.5
+            },
+            "total": 154.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32.19999980926514,
+              "Sync": 97.40000057220459
+            },
+            "total": 129.60000038146973
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.09999942779541,
+              "Sync": 133.69999980926514
+            },
+            "total": 141.79999923706055
+          }
+        },
+        "total": 426.30000019073486
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.09999942779541,
+              "Sync": 521.6000003814697
+            },
+            "total": 563.6999998092651
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27,
+              "Sync": 328.3999996185303
+            },
+            "total": 355.3999996185303
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 359.4000005722046
+            },
+            "total": 362.3000011444092
+          }
+        },
+        "total": 1281.4000005722046
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.29999923706055,
+              "Sync": 188.39999961853027
+            },
+            "total": 224.69999885559082
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.300000190734863,
+              "Sync": 127.59999942779541
+            },
+            "total": 155.89999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 88
+            },
+            "total": 90.80000019073486
+          }
+        },
+        "total": 471.39999866485596
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36,
+              "Sync": 94.39999961853027
+            },
+            "total": 130.39999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.100000381469727,
+              "Sync": 102.40000057220459
+            },
+            "total": 130.50000095367432
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 85.39999961853027
+            },
+            "total": 88.30000019073486
+          }
+        },
+        "total": 349.20000076293945
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 38.19999980926514,
+              "Sync": 45.89999961853027
+            },
+            "total": 84.09999942779541
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.199999809265137,
+              "Sync": 99.5
+            },
+            "total": 105.69999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 233.0999994277954
+            },
+            "total": 235.79999923706055
+          }
+        },
+        "total": 425.5999984741211
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.89999961853027,
+              "Sync": 5.799999237060547
+            },
+            "total": 47.69999885559082
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.59999942779541,
+              "Sync": 3.8000001907348633
+            },
+            "total": 33.39999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 5.09999942779541,
+              "Sync": 2
+            },
+            "total": 7.09999942779541
+          }
+        },
+        "total": 88.1999979019165
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.40000057220459,
+              "Sync": 164.9000005722046
+            },
+            "total": 201.30000114440918
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 34.39999961853027,
+              "Sync": 323.8999996185303
+            },
+            "total": 358.29999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 7.90000057220459,
+              "Sync": 106.90000057220459
+            },
+            "total": 114.80000114440918
+          }
+        },
+        "total": 674.4000015258789
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 38.40000057220459,
+              "Sync": 130.70000076293945
+            },
+            "total": 169.10000133514404
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.199999809265137,
+              "Sync": 87
+            },
+            "total": 115.19999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 54.19999980926514
+            },
+            "total": 57
+          }
+        },
+        "total": 341.3000011444092
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.69999980926514,
+              "Sync": 323
+            },
+            "total": 356.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.800000190734863,
+              "Sync": 70.60000038146973
+            },
+            "total": 97.40000057220459
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 45
+            },
+            "total": 48
+          }
+        },
+        "total": 502.1000003814697
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.69999980926514,
+              "Sync": 332.1000003814697
+            },
+            "total": 364.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.199999809265137,
+              "Sync": 70.10000038146973
+            },
+            "total": 99.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.799999237060547,
+              "Sync": 44.30000019073486
+            },
+            "total": 47.09999942779541
+          }
+        },
+        "total": 511.19999980926514
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.40000057220459,
+              "Sync": 228.60000038146973
+            },
+            "total": 261.0000009536743
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.699999809265137,
+              "Sync": 62
+            },
+            "total": 88.69999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.09999942779541,
+              "Sync": 39.89999961853027
+            },
+            "total": 42.999999046325684
+          }
+        },
+        "total": 392.69999980926514
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 59,
+              "Sync": 8.5
+            },
+            "total": 67.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 30.90000057220459,
+              "Sync": 4
+            },
+            "total": 34.90000057220459
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9.299999237060547,
+              "Sync": 4.800000190734863
+            },
+            "total": 14.09999942779541
+          }
+        },
+        "total": 116.5
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.69999980926514,
+              "Sync": 510.70000076293945
+            },
+            "total": 552.4000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.69999980926514,
+              "Sync": 997.6999998092651
+            },
+            "total": 1035.3999996185303
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 526
+            },
+            "total": 528.8000001907349
+          }
+        },
+        "total": 2116.6000003814697
+      }
+    },
+    "total": 8817.699999809265
+  },
+  {
+    "geomean": 402.7542865151178,
+    "mean": 556.3937498927116,
+    "score": 49.65806862802757,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.80000019073486,
+              "Sync": 47.69999980926514
+            },
+            "total": 81.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.09999942779541,
+              "Sync": 9.600000381469727
+            },
+            "total": 23.699999809265137
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 17.100000381469727
+            },
+            "total": 19.800000190734863
+          }
+        },
+        "total": 125
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.59999942779541,
+              "Sync": 203.19999980926514
+            },
+            "total": 245.79999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.59999942779541,
+              "Sync": 67.60000038146973
+            },
+            "total": 96.19999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13,
+              "Sync": 228.19999980926514
+            },
+            "total": 241.19999980926514
+          }
+        },
+        "total": 583.1999988555908
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.70000076293945,
+              "Sync": 69.80000019073486
+            },
+            "total": 109.50000095367432
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.199999809265137,
+              "Sync": 46
+            },
+            "total": 77.19999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3000001907348633,
+              "Sync": 29
+            },
+            "total": 32.30000019073486
+          }
+        },
+        "total": 219.00000095367432
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 45.5,
+              "Sync": 103.80000019073486
+            },
+            "total": 149.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 38.89999961853027,
+              "Sync": 232.10000038146973
+            },
+            "total": 271
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 13.199999809265137,
+              "Sync": 136.4000005722046
+            },
+            "total": 149.60000038146973
+          }
+        },
+        "total": 569.9000005722046
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.90000057220459,
+              "Sync": 507.69999980926514
+            },
+            "total": 549.6000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 34.09999942779541,
+              "Sync": 450.4000005722046
+            },
+            "total": 484.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8,
+              "Sync": 386.6000003814697
+            },
+            "total": 394.6000003814697
+          }
+        },
+        "total": 1428.7000007629395
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.30000019073486,
+              "Sync": 187.5999994277954
+            },
+            "total": 223.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.199999809265137,
+              "Sync": 110.80000019073486
+            },
+            "total": 139
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 75.90000057220459
+            },
+            "total": 78.90000057220459
+          }
+        },
+        "total": 441.80000019073486
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.19999980926514,
+              "Sync": 94.60000038146973
+            },
+            "total": 129.80000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.199999809265137,
+              "Sync": 103.10000038146973
+            },
+            "total": 130.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.700000762939453,
+              "Sync": 85.10000038146973
+            },
+            "total": 87.80000114440918
+          }
+        },
+        "total": 347.9000015258789
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.09999942779541,
+              "Sync": 45.80000019073486
+            },
+            "total": 82.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 13.5,
+              "Sync": 97.19999980926514
+            },
+            "total": 110.69999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6000003814697266,
+              "Sync": 240
+            },
+            "total": 242.60000038146973
+          }
+        },
+        "total": 436.19999980926514
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.19999980926514,
+              "Sync": 6.09999942779541
+            },
+            "total": 48.29999923706055
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.5,
+              "Sync": 3.6999998092651367
+            },
+            "total": 33.19999980926514
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 5.09999942779541,
+              "Sync": 2
+            },
+            "total": 7.09999942779541
+          }
+        },
+        "total": 88.5999984741211
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.79999923706055,
+              "Sync": 166.89999961853027
+            },
+            "total": 202.69999885559082
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27,
+              "Sync": 157
+            },
+            "total": 184
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3.09999942779541,
+              "Sync": 106.69999980926514
+            },
+            "total": 109.79999923706055
+          }
+        },
+        "total": 496.49999809265137
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.5,
+              "Sync": 134.5
+            },
+            "total": 172
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.800000190734863,
+              "Sync": 78.89999961853027
+            },
+            "total": 106.69999980926514
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 55.19999980926514
+            },
+            "total": 58.09999942779541
+          }
+        },
+        "total": 336.79999923706055
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.5,
+              "Sync": 328.19999980926514
+            },
+            "total": 361.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.699999809265137,
+              "Sync": 73.09999942779541
+            },
+            "total": 99.79999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 45.60000038146973
+            },
+            "total": 48.5
+          }
+        },
+        "total": 509.9999990463257
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 40.89999961853027,
+              "Sync": 331.20000076293945
+            },
+            "total": 372.1000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.90000057220459,
+              "Sync": 75.89999961853027
+            },
+            "total": 104.80000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 47.10000038146973
+            },
+            "total": 49.80000019073486
+          }
+        },
+        "total": 526.7000007629395
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 40.19999980926514,
+              "Sync": 368.79999923706055
+            },
+            "total": 408.9999990463257
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 32.09999942779541,
+              "Sync": 67.5
+            },
+            "total": 99.59999942779541
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 8.300000190734863,
+              "Sync": 43.5
+            },
+            "total": 51.80000019073486
+          }
+        },
+        "total": 560.399998664856
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 59.20000076293945,
+              "Sync": 8.699999809265137
+            },
+            "total": 67.90000057220459
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.100000381469727,
+              "Sync": 3.8000001907348633
+            },
+            "total": 34.90000057220459
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 9,
+              "Sync": 4.799999237060547
+            },
+            "total": 13.799999237060547
+          }
+        },
+        "total": 116.60000038146973
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.19999980926514,
+              "Sync": 512.7000007629395
+            },
+            "total": 553.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.69999980926514,
+              "Sync": 996.5
+            },
+            "total": 1034.1999998092651
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 524.1000003814697
+            },
+            "total": 526.9000005722046
+          }
+        },
+        "total": 2115.0000009536743
+      }
+    },
+    "total": 8902.299998283386
+  },
+  {
+    "geomean": 394.6934465466624,
+    "mean": 550.1562500596046,
+    "score": 50.67223734011381,
+    "tests": {
+      "Angular2-TypeScript-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.5,
+              "Sync": 48
+            },
+            "total": 81.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 14.100000381469727,
+              "Sync": 9.399999618530273
+            },
+            "total": 23.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 17
+            },
+            "total": 19.699999809265137
+          }
+        },
+        "total": 124.69999980926514
+      },
+      "AngularJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.60000038146973,
+              "Sync": 202.9000005722046
+            },
+            "total": 245.50000095367432
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.399999618530273,
+              "Sync": 68.5
+            },
+            "total": 96.89999961853027
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 13,
+              "Sync": 215.5999994277954
+            },
+            "total": 228.5999994277954
+          }
+        },
+        "total": 571
+      },
+      "BackboneJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 39.40000057220459,
+              "Sync": 68.69999980926514
+            },
+            "total": 108.10000038146973
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.09999942779541,
+              "Sync": 45.5
+            },
+            "total": 76.59999942779541
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.3000001907348633,
+              "Sync": 28.699999809265137
+            },
+            "total": 32
+          }
+        },
+        "total": 216.69999980926514
+      },
+      "Elm-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 53.80000019073486,
+              "Sync": 297.9000005722046
+            },
+            "total": 351.70000076293945
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.09999942779541,
+              "Sync": 123.20000076293945
+            },
+            "total": 160.30000019073486
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 13.5,
+              "Sync": 128.19999980926514
+            },
+            "total": 141.69999980926514
+          }
+        },
+        "total": 653.7000007629395
+      },
+      "EmberJS-Debug-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 50.09999942779541,
+              "Sync": 629.5999994277954
+            },
+            "total": 679.6999988555908
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 33.19999980926514,
+              "Sync": 375.4000005722046
+            },
+            "total": 408.6000003814697
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 8.09999942779541,
+              "Sync": 369.8999996185303
+            },
+            "total": 377.9999990463257
+          }
+        },
+        "total": 1466.2999982833862
+      },
+      "EmberJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.60000038146973,
+              "Sync": 185.30000019073486
+            },
+            "total": 221.9000005722046
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.800000190734863,
+              "Sync": 111.70000076293945
+            },
+            "total": 140.50000095367432
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8999996185302734,
+              "Sync": 77.10000038146973
+            },
+            "total": 80
+          }
+        },
+        "total": 442.4000015258789
+      },
+      "Flight-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 35.39999961853027,
+              "Sync": 94.5
+            },
+            "total": 129.89999961853027
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.300000190734863,
+              "Sync": 104.09999942779541
+            },
+            "total": 131.39999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.8000001907348633,
+              "Sync": 85.89999961853027
+            },
+            "total": 88.69999980926514
+          }
+        },
+        "total": 349.9999990463257
+      },
+      "Inferno-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.80000019073486,
+              "Sync": 45.5
+            },
+            "total": 82.30000019073486
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 6.199999809265137,
+              "Sync": 97.69999980926514
+            },
+            "total": 103.89999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6000003814697266,
+              "Sync": 232.39999961853027
+            },
+            "total": 235
+          }
+        },
+        "total": 421.19999980926514
+      },
+      "Preact-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 42.39999961853027,
+              "Sync": 6.100000381469727
+            },
+            "total": 48.5
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 29.59999942779541,
+              "Sync": 3.6999998092651367
+            },
+            "total": 33.29999923706055
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 5.199999809265137,
+              "Sync": 1.8999996185302734
+            },
+            "total": 7.09999942779541
+          }
+        },
+        "total": 88.89999866485596
+      },
+      "React-Redux-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 36.80000019073486,
+              "Sync": 165.89999961853027
+            },
+            "total": 202.69999980926514
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.100000381469727,
+              "Sync": 159.29999923706055
+            },
+            "total": 186.39999961853027
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 3,
+              "Sync": 107.80000019073486
+            },
+            "total": 110.80000019073486
+          }
+        },
+        "total": 499.8999996185303
+      },
+      "React-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 37.59999942779541,
+              "Sync": 130.89999961853027
+            },
+            "total": 168.49999904632568
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 27.799999237060547,
+              "Sync": 76.80000019073486
+            },
+            "total": 104.59999942779541
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 53.60000038146973
+            },
+            "total": 56.30000019073486
+          }
+        },
+        "total": 329.39999866485596
+      },
+      "Vanilla-ES2015-Babel-Webpack-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 33.30000019073486,
+              "Sync": 323.69999980926514
+            },
+            "total": 357
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.399999618530273,
+              "Sync": 71.19999980926514
+            },
+            "total": 97.59999942779541
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.90000057220459,
+              "Sync": 45.10000038146973
+            },
+            "total": 48.000000953674316
+          }
+        },
+        "total": 502.6000003814697
+      },
+      "Vanilla-ES2015-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.90000057220459,
+              "Sync": 333.70000076293945
+            },
+            "total": 366.60000133514404
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 28.5,
+              "Sync": 72
+            },
+            "total": 100.5
+          },
+          "DeletingItems": {
+            "tests": {
+              "Async": 2.6999998092651367,
+              "Sync": 45.30000019073486
+            },
+            "total": 48
+          }
+        },
+        "total": 515.100001335144
+      },
+      "VanillaJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 32.40000057220459,
+              "Sync": 225.19999980926514
+            },
+            "total": 257.6000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 26.59999942779541,
+              "Sync": 62.90000057220459
+            },
+            "total": 89.5
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 3.200000762939453,
+              "Sync": 40.10000038146973
+            },
+            "total": 43.30000114440918
+          }
+        },
+        "total": 390.4000015258789
+      },
+      "VueJS-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 59.30000019073486,
+              "Sync": 8.699999809265137
+            },
+            "total": 68
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 31.300000190734863,
+              "Sync": 3.6999998092651367
+            },
+            "total": 35
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 7.200000762939453,
+              "Sync": 4.699999809265137
+            },
+            "total": 11.90000057220459
+          }
+        },
+        "total": 114.90000057220459
+      },
+      "jQuery-TodoMVC": {
+        "tests": {
+          "Adding100Items": {
+            "tests": {
+              "Async": 41.5,
+              "Sync": 511.6000003814697
+            },
+            "total": 553.1000003814697
+          },
+          "CompletingAllItems": {
+            "tests": {
+              "Async": 37.40000057220459,
+              "Sync": 997.4000005722046
+            },
+            "total": 1034.8000011444092
+          },
+          "DeletingAllItems": {
+            "tests": {
+              "Async": 2.6000003814697266,
+              "Sync": 524.7999992370605
+            },
+            "total": 527.3999996185303
+          }
+        },
+        "total": 2115.300001144409
+      }
+    },
+    "total": 8802.500000953674
+  }
+]

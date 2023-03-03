@@ -1,0 +1,72 @@
+[5603:5603:0303/170759.868254:WARNING:chrome_main_delegate.cc(618)] This is Chrome version 112.0.5572.0 (not a warning)
+[5603:5617:0303/170800.042900:ERROR:bus.cc(399)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[5603:5617:0303/170800.042935:ERROR:bus.cc(399)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[5603:5603:0303/170800.077254:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5603:5617:0303/170800.083620:ERROR:bus.cc(399)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[5603:5617:0303/170800.083658:ERROR:bus.cc(399)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[5603:5603:0303/170800.259477:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[5603:5690:0303/170800.278100:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5603:5690:0303/170800.278119:WARNING:property.cc(144)] DaemonVersion: GetAndBlock: failed.
+[5603:5690:0303/170800.278232:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5603:5690:0303/170800.278513:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5603:5617:0303/170800.625938:ERROR:bus.cc(399)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[5603:5617:0303/170800.625974:ERROR:bus.cc(399)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[5636:5646:0303/170801.540436:WARNING:simple_synchronous_entry.cc(1438)] Could not open platform files for entry.
+[5603:5603:0303/170804.443581:INFO:optimization_guide_logger.cc(42)] ../../components/optimization_guide/core/hints_manager.cc(523) Hint cache initialized
+[5603:5603:0303/170804.645658:INFO:optimization_guide_logger.cc(42)] ../../components/optimization_guide/content/browser/page_content_annotations_service.cc(309) PageContentAnnotationJob Result: BatchAnnotationResult{"Speedometer 2.1 Interactive Runner", type: ContentVisibility, output: nullopt}
+[5603:5603:0303/170804.645731:INFO:optimization_guide_logger.cc(42)] ../../components/optimization_guide/content/browser/page_content_annotations_service.cc(309) PageContentAnnotationJob Result: BatchAnnotationResult{"Speedometer 2.1 Interactive Runner", type: PageEntities, output: nullopt}
+[5603:5603:0303/170812.155943:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170812.156162:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170812.156376:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170812.156546:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170812.242410:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170827.491245:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170827.491448:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170827.491628:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170827.491797:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170827.530513:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170838.176433:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170838.176653:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170838.176825:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170838.176995:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170838.214788:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170848.733630:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170848.733843:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170848.734054:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170848.734230:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170848.771130:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170859.321631:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170859.321845:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170859.322018:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170859.322187:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170859.361257:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170910.151466:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170910.151677:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170910.151850:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170910.152026:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170910.192161:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170921.079475:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170921.079685:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170921.079858:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170921.080027:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170921.117330:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170931.930799:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170931.931013:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170931.931194:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170931.931362:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170931.968679:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170942.823450:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170942.823674:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170942.823847:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170942.824036:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170942.861381:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/170953.325234:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170953.325449:INFO:CONSOLE(0)] "DEBUG: Ember  : 2.6.2", source:  (0)
+[5603:5603:0303/170953.325621:INFO:CONSOLE(0)] "DEBUG: jQuery : 2.2.4", source:  (0)
+[5603:5603:0303/170953.325790:INFO:CONSOLE(0)] "DEBUG: -------------------------------", source:  (0)
+[5603:5603:0303/170953.435625:INFO:CONSOLE(0)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source:  (0)
+[5603:5603:0303/171004.127721:ERROR:background_mode_manager_aura.cc(12)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
+[5603:5603:0303/171004.231776:WARNING:internal_linux.cc(67)] Failed to read /proc/5636/stat
+[5603:5603:0303/171004.231798:ERROR:kill_posix.cc(34)] waitpid(5636): No child processes (10)
+[5603:5620:0303/171004.233617:WARNING:discardable_shared_memory_manager.cc(438)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[5603:5603:0303/171004.266346:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
