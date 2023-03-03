@@ -1,0 +1,79 @@
+{
+  "browser-setup": {
+    "values": [
+      4.326203
+    ],
+    "min": 4.326203,
+    "average": 4.326203,
+    "geomean": 4.326203,
+    "max": 4.326203,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  },
+  "browser-tear_down": {
+    "values": [
+      0.367212
+    ],
+    "min": 0.367212,
+    "average": 0.367212,
+    "geomean": 0.367212,
+    "max": 0.367212,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  },
+  "probes-creation": {
+    "values": [
+      0.000218
+    ],
+    "min": 0.000218,
+    "average": 0.000218,
+    "geomean": 0.000218,
+    "max": 0.000218,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  },
+  "probes-setup": {
+    "values": [
+      0.000164
+    ],
+    "min": 0.000164,
+    "average": 0.000164,
+    "geomean": 0.000164,
+    "max": 0.000164,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  },
+  "probes-start": {
+    "values": [
+      0.000291
+    ],
+    "min": 0.000291,
+    "average": 0.000291,
+    "geomean": 0.000291,
+    "max": 0.000291,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  },
+  "run": {
+    "values": [
+      126.537983
+    ],
+    "min": 126.537983,
+    "average": 126.537983,
+    "geomean": 126.537983,
+    "max": 126.537983,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  },
+  "runner-cooldown": {
+    "values": [
+      2.00206
+    ],
+    "min": 2.00206,
+    "average": 2.00206,
+    "geomean": 2.00206,
+    "max": 2.00206,
+    "stddev": 0.0,
+    "stddevPercent": 0.0
+  }
+}
